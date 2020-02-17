@@ -17,7 +17,7 @@
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/Assembling.png"></p>
 
 # User Interface
-<p align="justify"></p>
+<p align="justify">the mobile application developed in Kodular  for Android devices al-lows the user to register one person per available GPS device, through the Inter-national Mobile Equipment Identity (IMEI), associated with an email. For the safety of the prosthesis and the patient, the application records information and routs in real time.</p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/applicative.jpg"></p>
 <p align="justify">According the results of the survey, 63% of users have experience using mobile appli-cations with geolocation features. Study participants have used the GPS of their mobile device and 37% of study participants experience its use-fulness when testing the Novus Spem application.</p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.jpg"></p>
