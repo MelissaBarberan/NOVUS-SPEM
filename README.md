@@ -10,16 +10,19 @@
 
 # Prototype
 <p align="justify"></p>
-<p align="center"> <img src=""></p>
+<p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/prototype.png"></p>
+
 # Assembling
 <p align="justify"></p>
-<p align="center"> <img src=""></p>
+<p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/Assembling.png"></p>
+
 # User Interface
 <p align="justify"></p>
-<p align="center"> <img src=""></p>
+<p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/applicative.jpg"></p>
+
 # Results
 <p align="justify"></p>
-<p align="center"> <img src=""></p>
+<p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/results.png"></p>
 
 Desarrollado por:</p>
 <p>
