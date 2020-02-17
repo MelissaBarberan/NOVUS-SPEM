@@ -26,9 +26,11 @@
 
 Desarrollado por:</p>
 <p>
-    Melissa Barberán V. - mbarberasn@est.ups.edu.ec</p>
+    Melissa Barberán V. - mbarberasn@est.ups.edu.ec
+</p>
 <p>
-    Jessica Chela - jchelac@est.ups.edu.ec </p>
+    Jessica Chela - jchelac@est.ups.edu.ec
+</p>
 
 Tutor:
     Joe Llerena - jllerena@ups.edu.ec 
