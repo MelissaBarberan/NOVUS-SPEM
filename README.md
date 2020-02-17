@@ -19,11 +19,15 @@
 # User Interface
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/applicative.jpg"></p>
-
+<p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.jpg"></p>
+<p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/2.jpg"></p>
+<p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/3.jpg"></p>
+<p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/4.jpg"></p>
+<p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/5.jpg"></p>
 
 # Results
