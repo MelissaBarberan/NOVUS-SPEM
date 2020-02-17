@@ -25,7 +25,7 @@
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/2.jpg"></p>
 <p align="justify">The acquisition of a prostheses in Ecuador is not very common due to the high cost of prostheses, the technology required in the design and the elaboration process.  The results of the study show that 94% of participants would be willing to acquire a 3D prosthesis and the mobile application presented in this study </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/3.jpg"></p>
-<p align="justify"></p>
+<p align="justify">These values are congruent with the results obtained in the question “Would you recommend Novus Spem to institutions that collaborate with people with physical disabilities for their implementation and use” with 95% affirmative responses</p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/4.jpg"></p>
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/5.jpg"></p>
