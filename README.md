@@ -19,9 +19,9 @@
 # User Interface
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/applicative.jpg"></p>
-<p align="justify"></p>
+<p align="justify">According the results of the survey, 63% of users have experience using mobile appli-cations with geolocation features. Study participants have used the GPS of their mobile device and 37% of study participants experience its use-fulness when testing the Novus Spem application.</p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.jpg"></p>
-<p align="justify"></p>
+<p align="justify">84% of the participants believe that new technologies including objects build with 3D printers contribute to improvements in people’s quality of life.   It is noted that objects built with 3D printers are not common in the environments in which study participants live.  The study presents the finished prosthesis to the partic-ipants. </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/2.jpg"></p>
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/3.jpg"></p>
