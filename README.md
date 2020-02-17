@@ -24,7 +24,10 @@
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/results.png"></p>
 
-Desarrollado por:</p>
+Investigadores :</p>
+<p>
+    Joe Llerena - jllerena@ups.edu.ec 
+</p>
 <p>
     Melissa Barberán V. - mbarberasn@est.ups.edu.ec
 </p>
@@ -32,5 +35,4 @@ Desarrollado por:</p>
     Jessica Chela - jchelac@est.ups.edu.ec
 </p>
 
-Tutor:
-    Joe Llerena - jllerena@ups.edu.ec 
+
