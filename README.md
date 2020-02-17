@@ -4,10 +4,28 @@
 <a href="https://youtu.be/j3BNdaQn4N0">Here's the tutorial</a></p>
 
 
-# Estado del arte 
-<p align="justify"> 
- 
-</p>
+# Introduction 
+<p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.PNG"></p>
 
-</p>
+# Prototype
+<p align="justify"></p>
+<p align="center"> <img src=""></p>
+# Assembling
+<p align="justify"></p>
+<p align="center"> <img src=""></p>
+# User Interface
+<p align="justify"></p>
+<p align="center"> <img src=""></p>
+# Results
+<p align="justify"></p>
+<p align="center"> <img src=""></p>
+
+Desarrollado por:</p>
+<p>
+    Melissa Barberán V. - mbarberasn@est.ups.edu.ec</p>
+<p>
+    Jessica Chela - jchelac@est.ups.edu.ec </p>
+
+Tutor:
+    Joe Llerena - jllerena@ups.edu.ec 
