@@ -23,7 +23,7 @@
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.jpg"></p>
 <p align="justify">84% of the participants believe that new technologies including objects build with 3D printers contribute to improvements in people’s quality of life.   It is noted that objects built with 3D printers are not common in the environments in which study participants live.  The study presents the finished prosthesis to the partic-ipants. </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/2.jpg"></p>
-<p align="justify"></p>
+<p align="justify">The acquisition of a prostheses in Ecuador is not very common due to the high cost of prostheses, the technology required in the design and the elaboration process.  The results of the study show that 94% of participants would be willing to acquire a 3D prosthesis and the mobile application presented in this study </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/3.jpg"></p>
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/4.jpg"></p>
