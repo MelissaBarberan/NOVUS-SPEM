@@ -10,7 +10,7 @@
 
 # Prototype
 <p align="justify">The prototype is designed with Autodesk Inventor which allows the modification of the base prototype to insert the spaces necessary to install the GPS positioning device proposed in this study. The Simplify3D program is used for the 3D printer, as it interacts with the printer’s drivers. </p>
-<p align="justify"> </p>
+<p align="justify">The prosthesis construction process is carried out according to the functional needs of the patient. Each piece is modeled according to the specifications of the base model prototype; for example an interface made with the characteristics of a pa-tient's hand is usually born from a cube as the base and then the piece is modified with functions of extrusion of layers, rotation, movement of vertices, joints, cuts and functions provided by the design program. The base prototype for this study was made by the Thingiverse community of the Flexy Hand 2 project.  This study optimized the Flexy Hand 2 design and personalized the prototype for the needs of our patient. </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/prototype.png"></p>
 
 # Assembling
