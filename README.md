@@ -13,7 +13,8 @@
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/prototype.png"></p>
 
 # Assembling
-<p align="justify">The prosthetic hand uses the proximal and distal phalanges created with Ninjaflex.  Non-elastic cords are passed through holes to simulate the tendons of the hand and thereby allow the fingers to close and hold on to objects </p>
+<p align="justify">The prosthetic hand uses the proximal and distal phalanges created with Ninjaflex.  Non-elastic cords are passed through holes to simulate the tendons of the hand and thereby allow the fingers to close and hold on to objects.</p>
+<p align="justify">The prosthesis is covered with an intumescent material, Montofoc varnish , (fire-proof varnish) which gives passive protection in the presence of fire or heat, avoiding the creation of air cells, and protecting the prosthesis for a certain period of time while directly immersed in flames. </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/Assembling.png"></p>
 
 # User Interface
