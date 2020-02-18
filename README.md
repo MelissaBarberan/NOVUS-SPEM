@@ -35,8 +35,7 @@
 # Results
 <p align="justify"></p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/results.png"></p>
-
-
+<p align="center"> <img src="https://github.com/jchelac/NOVUS-SPEM/blob/master/DOC/FINAL.JPG"></p>
 
 Investigadores :</p>
 <p>
