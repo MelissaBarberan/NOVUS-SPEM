@@ -5,7 +5,7 @@
 
 
 # Introduction 
-<p align="justify"></p>
+<p align="justify"> The Ecuadorian national government, via the Ministry of Health, distributes aes-thetic prostheses, which lack functionality.  Alternatively, an individual with a disabil-ity could buy a prosthesis from a private company: the Ecuadorian companies dedi-cated to the manufacturing of prostheses sell their products for $7,000 - $10,000; their products are designed with aluminum and though they are func-tional they are not aesthetic.</p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.PNG"></p>
 
 # Prototype
