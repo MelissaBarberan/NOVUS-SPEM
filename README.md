@@ -9,7 +9,8 @@
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/1.PNG"></p>
 
 # Prototype
-<p align="justify"></p>
+<p align="justify">The prototype is designed with Autodesk Inventor which allows the modification of the base prototype to insert the spaces necessary to install the GPS positioning device proposed in this study. The Simplify3D program is used for the 3D printer, as it interacts with the printer’s drivers. </p>
+<p align="justify"> </p>
 <p align="center"> <img src="https://github.com/MelissaBarberan/NOVUS-SPEM/blob/master/RESOURCES/prototype.png"></p>
 
 # Assembling
